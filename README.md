@@ -23,3 +23,11 @@ https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
 
 ## Robô montado
 <img src="Montado.jpeg">
+
+## Configuração do Software
+- Abra o código utilizando o <a href="https://platformio.org/">PlatformIO</a>, conecte a ESP32 no computador
+e carregue o código.
+- Desconecte o cabo USB e conecte a energia da bateria
+- Procure pela rede ESP-WIFI-MANAGER em seu smarphone 
+- Conecte ao endereço ip padrão (192.168.4.1)
+- Realize as configurações do WiFi
