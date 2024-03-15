@@ -9,8 +9,11 @@ https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
 ## Lista de materiais
 - ESP32
 - Ponte H (arduino)
-- Conectores fêmea-fêmea de protoboard (pelo menos 6)
-- Bateria 9V
+- Conectores macho-fêmea de protoboard (pelo menos 6)
+- Fios diversos
+- 1 Protoboard pequena
+- 2 Bateria 9V com conectores apropriados
+- 1 regulador de tensão <a href="images/regulador.png">L7805C</a>
 - Chassi de carrinho arduino
     - 2 motores DC
     - Caixa redutora
@@ -19,10 +22,10 @@ https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
     - Chave gangorra
 
 ## Esquemático
-<img src="Esquema.png">
+<img src="images/Esquema.png">
 
 ## Robô montado
-<img src="Montado.jpeg">
+<img src="images/Montado.jpeg">
 
 ## Configuração do Software
 - Abra o código utilizando o <a href="https://platformio.org/">PlatformIO</a>, conecte a ESP32 no computador
