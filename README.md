@@ -21,6 +21,15 @@ https://www.instructables.com/Making-a-Joystick-With-HTML-pure-JavaScript/
     - Chassi de acrílico
     - Chave gangorra
 
+## Pinagem
+(Ponte H) = (ESP32)
+- IN1 = D15
+- IN2 = D4
+- IN3 = D18
+- IN4 = D19
+
+Os demais pinos são alimentação
+
 ## Esquemático
 <img src="images/Esquema.png">
 
